@@ -1,2 +1,45 @@
 /*number 2*/
-.table2
+.table2{
+    border: 1px white solid;
+    border-collapse: collapse;
+}
+.table2>td{
+    width: 125px;
+}
+.th{
+    background: blue;
+    width: 100px;
+}
+.table2head{
+    background: blue;
+}
+.table2>th{
+    background-color: blue;
+}
+.table2>thead>th>:last-of-type{
+    padding-left: 10px;
+    
+}
+.table2>tbody>tr:first-of-type>td:last-of-type{
+    background: darkgreen;
+}
+.g1{
+    background: green;
+}
+.g2{background: rgb(4, 143, 4);}
+.g3{
+    background: rgb(5, 167, 5);
+}
+.whitethings{
+    background: white;
+}
+.graythings{
+    background: lightsteelblue;
+}
+td 
+
+
+
+.thingamaboober{
+    text-align: center;
+}
