@@ -26,20 +26,197 @@
 .g1{
     background: green;
 }
-.g2{background: rgb(4, 143, 4);}
+.g2{
+    background: rgb(4, 143, 4);
+}
 .g3{
     background: rgb(5, 167, 5);
+}
+.g4{
+    background: rgb(7, 192, 7);
+}
+.g5{
+    background: rgb(145, 223, 21);
+}
+.g6{
+    background: rgb(159, 238, 32);
+}
+.g7{
+    background: rgb(174, 251, 49);
+}
+.g8{
+    background: rgb(174, 251, 49);
+}
+.g9{
+    background: rgb(191, 241, 110);
 }
 .whitethings{
     background: white;
 }
-.graythings{
-    background: lightsteelblue;
+
+.table2>td{
+    height:45px ;
 }
-td 
 
 
 
 .thingamaboober{
     text-align: center;
+}
+
+
+.t3{
+    border-collapse: collapse;
+    border: white 1px solid;
+}
+.t3>tr>tbody>td{
+    height:40px ;
+    text-align: center;
+}
+.tb3{
+    text-align: center;
+}
+.tdf{
+    width: 65px;
+    height:28 ;
+}
+.blg{
+    background-image: linear-gradient(white, cyan, grey,black ) ;
+    color: white;
+}
+.ch{
+    background: cyan;
+}
+.chtd1{
+color: rgb(25, 155, 155);
+}
+.chtd2{
+    background: rgb(169, 245, 245);
+}
+
+.gh{
+    background: lightgreen;
+}
+
+.chtd3{
+    color: rgb(58, 92, 58);
+}
+.chtd4{
+    background: rgb(182, 233, 182);
+}
+.oh{
+    background: orange;
+}
+.chtd5{
+    color: rgb(184, 124, 12);
+}
+.chtd6{
+    background: rgb(231, 196, 131);
+}
+.orh{
+    background: orangered;
+}
+.chtd7{
+    color: rgb(228, 22, 4);
+}
+.chtd8{
+    background: rgb(243, 147, 112);
+}
+
+.t4{
+    border-collapse: collapse;
+}
+.t4>thead>th{
+    width: 110px;
+}
+.t4>thead>tr>th{
+    background: navy;
+    color: white;
+}
+.t4>tbody>th{
+    text-align: right;
+    width: 120px;
+}
+.goright{
+    text-align: right;
+}
+.t4>tbody>tr>td{
+    width: 200px;
+}
+.sadpepe{
+    
+}
+.pseudo{
+    width: 120px;
+}
+.sadpepe>img{
+    padding-left: 30%;
+}
+
+.t5{
+
+}
+.t5>thead>th{
+
+}
+.thebig{
+    font-size: 30px;
+    color: white;    
+    text-align: center;
+    color: white;
+    background: lightskyblue;
+    border: black 1px solid;
+    border-left:none;
+    border-right: none;
+}
+.t5>th td{
+    padding: 10px;
+}
+.bigt5{
+    font-size: 20px;
+    padding: 10px;
+}
+.pad{
+    padding: 10px;
+}
+.t5>tbody>tr>th{
+    text-align: left;
+}
+.tf>tfoot>tr>th{
+    text-align: left;
+}.t5foot{
+    
+}
+.t5foot>tr>th{
+    text-align: left;
+}
+
+
+.creepertd{
+    width: 50px;
+    height: 50px;
+}
+.clg{
+    background: lightgreen;
+}
+.cg{
+    background: green;
+}
+.cw{
+    background: white;
+}
+.cb{background: black;
+
+}
+
+.skelly
+
+.sg{
+    background: rgb(172, 172, 172);
+}
+.slg{
+    background: grey;
+}
+.sb{
+    background: black;
 }
